@@ -152,6 +152,7 @@ header {
     display: table;
 }
 
+.history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -238,12 +239,13 @@ header {
 
 .history-heading {
     color: #fafafa;
-    margin: 50px;
+    margin-bottom: 5px;
 }
 
 .history-item {
     padding: 30px;
 }
+
 
 /* ---------------media Quiry------------------*/
 
